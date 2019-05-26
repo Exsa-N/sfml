@@ -1,6 +1,7 @@
 #include <SFML/Graphics.hpp>
+//Другие библиотеки
 
-using namespace std;
+using namespace sf;
 
 template <typename func>
 class Plot
